@@ -31,18 +31,13 @@ I like code that a teammate can read six months later without swearing at me.
 ## Stuff I've built
 
 <!-- Replace these with your real repos. Two honest lines each beats a long pitch. -->
-- **[project-name](https://github.com/yash02k3/project-name)**: what it does and why you made it.
-- **[project-name](https://github.com/yash02k3/project-name)**: what it does and one thing you learned.
+- **[AI-Multiple-Disease-Prediction](https://github.com/yash02k3/AI-Multiple-Disease-Prediction)**: System featuring a responsive design for both healthcare administrators and patients.
 
-## Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yash02k3&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash02k3&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+
 
 ## Say hi
 
-[LinkedIn](https://www.linkedin.com/in/yash02k3) · [Email](mailto:you@example.com)
+[LinkedIn](https://www.linkedin.com/in/yash02k3) · [Email](dev.yash2k3@gmail.com)
 
 <sub>Always learning. Usually with the terminal open.</sub>
