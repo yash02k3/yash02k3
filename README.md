@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yash 👋</h1>
 
 <p align="center">
-  <img src="./terminal.svg" alt="terminal card" width="720"/>
+  <img src="./profile-card.svg" alt="profile card" width="100%"/>
 </p>
 
 I build mobile apps for a living, mostly with Flutter. Right now I'm at **Temflo Systems**, working on enterprise apps: screens people actually use every day, REST APIs behind them, and the boring-but-important job of making things load faster.
