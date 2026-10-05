@@ -32,7 +32,7 @@ I like code that a teammate can read six months later without swearing at me.
 
 <!-- Replace these with your real repos. Two honest lines each beats a long pitch. -->
 - **[AI-Multiple-Disease-Prediction](https://github.com/yash02k3/AI-Multiple-Disease-Prediction)**: System featuring a responsive design for both healthcare administrators and patients.
-
+- **[Humexa — Human + Next-Gen Workspace Platform](https://github.com/yash02k3/Humexa.git)**: Next-generation SaaS platform for Us .
 
 
 
